@@ -1,0 +1,39 @@
+.bg-orange{
+    background-color:#FFC017;
+}
+
+/* Border bottom */
+.border-b{
+    border-bottom: 1px solid black;
+}
+
+.gray-bottom-border{
+    border-bottom: 1px solid rgb(194, 189, 189);
+    margin-bottom: 50px;
+
+}
+
+.collapse>.navbar-nav> a{
+    margin-left:5px;
+    font-size: 14px;
+}
+
+.bg-black{
+    background-color: black;
+
+}
+
+.rounded-button{
+    border-radius: 10%;
+}
+
+.btn-hover{
+    background-color:rgba(243, 243, 243, 0.603) ;
+    transition:0.5s;
+
+}
+
+.btn-hover:hover{
+    background-color: rgb(229, 229, 229);
+    opacity: 1;
+}
